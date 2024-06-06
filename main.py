@@ -4,7 +4,7 @@
 # Description: Offers an image to the QFT circuit and displays the results.
 
 """Qiskit packages"""
-from qiskit_aer import Aer
+from qiskit_aer import Aer #changing the qiskit package to qiskit_aer 
 from qiskit.visualization import plot_bloch_multivector
 """Matplotlib package"""
 import matplotlib.pyplot as plt
